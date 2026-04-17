@@ -1,0 +1,6 @@
+{
+  "name": "muslim",
+  "description": "A comprehensive and beautiful resource for Islamic Jurisprudence (Fiqh), featuring AI-powered scholarly guidance and categorized learning modules.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
